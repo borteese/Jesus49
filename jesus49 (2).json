@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Jesus49",
+    "author": "Glenn Krause"
+  },
+  [
+    {
+      "p": "R5"
+    },
+    "esc\ntab",
+    {
+      "x": 1.5,
+      "p": "R3"
+    },
+    "q\n1\n\n\n\n\n\n\n\n\n!",
+    "w\n2\n\n\n\n\n\nup\n\n\n@",
+    "e\n3\n\n\n\n\n\n\n\n\n#",
+    "r\n4\n\n\n\n\n\n\n\n\n$",
+    "t\n5\n\n\n\n\n\n\n\n\n%",
+    "[\n6\n\n\n\n\n\n\n{\n\n^",
+    {
+      "x": 1.25
+    },
+    "]\n7\n\n\n\n\n\n\n}\n\n&",
+    "y\n8\n\n\n\n\n\n\n\n\n*",
+    "u\n9\n\n\n\n\n\n\n\n\n(",
+    "i\n0\n\n\n\n\n\n\n\n\n)",
+    "o\n-\n\n\n\n\n\n\n\n\n_",
+    "p\n=\n\n\n\n\n\n\n\n\n+",
+    {
+      "x": 1.25,
+      "w": 1.5
+    },
+    "back"
+  ],
+  [
+    {
+      "p": "R2",
+      "w": 1.25
+    },
+    "Caps Lc",
+    {
+      "x": 1.5
+    },
+    "a\nF1\n\n\n\n\n\nleft",
+    "s\nF2\n\n\n\n\n\ndown",
+    "d\nF3\n\n\n\n\n\nright",
+    "f\nF4",
+    "g\nF5",
+    ";\nF6\n\n\n\n\n\n\n:",
+    {
+      "x": 1.25
+    },
+    "'\nF7\n\n\n\n\n\n\n\"",
+    "h\nF8",
+    "j\nF9",
+    "k\nF10",
+    "l\nF11",
+    {
+      "x": 1.25,
+      "w": 2.25
+    },
+    "Return"
+  ],
+  [
+    {
+      "p": "R1",
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "x": 1.5
+    },
+    "z\nF12",
+    "x\nF13",
+    "c\nF14",
+    "v\nF15",
+    "b\nprtsc",
+    ",\ninsert\n\n\n\n\n\n\n<",
+    {
+      "x": 1.25
+    },
+    ".\nhome\n\n\n\n\n\n\n>",
+    "n\npgup",
+    "m\npgdn",
+    "/\nend\n\n\n\n\n\n\n?",
+    {
+      "x": 1.25,
+      "w": 1.75
+    },
+    "shift",
+    "`\n\\\n\n\n\n\n\n\n~\n\n|"
+  ],
+  [
+    {
+      "x": 0.75
+    },
+    "Ctrl",
+    {
+      "x": 1.5
+    },
+    "Alt",
+    "OS",
+    {
+      "p": "SPACE",
+      "a": 7,
+      "w": 3
+    },
+    "",
+    {
+      "p": "R1",
+      "a": 4
+    },
+    "Mode",
+    {
+      "x": 1.25,
+      "p": "SPACE",
+      "a": 7,
+      "w": 3
+    },
+    "",
+    {
+      "p": "R1",
+      "a": 4
+    },
+    "Alt",
+    {
+      "x": 1.25
+    },
+    "OS",
+    "Ctrl"
+  ]
+]
